@@ -19,5 +19,3 @@ I'm actively seeking opportunities to collaborate on projects related to dayligh
 📫 How to Reach Me
 
 You can contact me via email at grruta@kth.se.
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GreRut)](https://github.com/GreRut/github-readme-stats)

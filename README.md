@@ -1,16 +1,20 @@
 👋 Hi, I'm Gregor Ruta
 
-Welcome to my GitHub profile! I'm a passionate individual with a keen interest in generative design and architectural research. Currently on a journey of learning Python and NumPy for exciting machine learning applications.
+I am a swift and passionate learner, always open to challenges and dedicated to making the world a better place.
+Over my 10+ year career as an engineer, I successfully founded and led a company of 300 people, pivotal
+in establishing essential infrastructure for a new city in Africa, contributing to the eradicating illiteracy.
+My expertise includes designing high-security airport projects in Sweden's harsh environments, where timely
+delivery and dependency were the keys to success.
 
 🔍 What I'm Into
 
 Generative Design: Exploring the intersection of creativity and computation.
 Architectural Research: Investigating innovative approaches to design and construction.
-Machine Learning with Python and NumPy: Learning and applying ML concepts to solve real-world problems.
+Machine Learning for Urban Design: Creating Sustainable Cities for a better future
 
 🌱 Currently Learning
 
-I'm in the process of enhancing my skills in Python and NumPy to delve deeper into the world of machine learning. Excited about the possibilities and potential applications that this knowledge will unlock.
+I'm in the process of enhancing my skills in Python to delve deeper into the world of machine learning. Excited about the possibilities and potential applications that this knowledge will unlock.
 
 💞️ Open to Collaboration
 

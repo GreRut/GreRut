@@ -1,25 +1,52 @@
-👋 Hi, I'm Gregor Ruta
+# Gregor Ruta - Software Developer
 
-I am a swift and passionate learner, always open to challenges and dedicated to making the world a better place.
-Over my 10+ year career as an engineer, I successfully founded and led a company of 300 people, pivotal
-in establishing essential infrastructure for a new city in Africa, contributing to the eradicating illiteracy.
-My expertise includes designing high-security airport projects in Sweden's harsh environments, where timely
-delivery and dependency were the keys to success.
+### Welcome to my GitHub!
 
-🔍 What I'm Into
+I'm Gregor Ruta, a software developer with a diverse background in architecture and project management. Currently transitioning to full-stack software development, I'm passionate about solving real-world problems with technology. On this profile, you'll find my projects built with C#, Python, and web technologies, along with various experiments in full-stack development, cloud services, and automation.
 
-Generative Design: Exploring the intersection of creativity and computation.
-Architectural Research: Investigating innovative approaches to design and construction.
-Machine Learning for Urban Design: Creating Sustainable Cities for a better future
+---
 
-🌱 Currently Learning
+## 👨‍💻 **About Me**
 
-I'm in the process of enhancing my skills in Python to delve deeper into the world of machine learning. Excited about the possibilities and potential applications that this knowledge will unlock.
+- **Current Focus**: Full-Stack Development (C#, .NET, Python)
+- **Programming Languages**: C#, Python, JavaScript, HTML, CSS
+- **Frameworks**: ASP.NET Core, React, Node.js
+- **Cloud Services**: Azure (with a focus on DevOps & deployments)
+- **DevOps Tools**: Docker, CI/CD pipelines
+- **Project Management**: Agile methodologies, Scrum, Kanban
+- **Languages**: Fluent in Swedish, English, and Polish
 
-💞️ Open to Collaboration
+After spending several years as a Senior Architect, leading infrastructure and high-security projects, I shifted my career to software development, where I’m applying my project leadership skills to develop efficient and innovative solutions.
 
-I'm actively seeking opportunities to collaborate on projects related to daylighting. If you have any exciting daylighting projects or ideas, feel free to reach out!
+---
 
-📫 How to Reach Me
+## 🛠 **Technologies & Tools**
 
-You can contact me via email at grruta@kth.se.
+- **Backend**: ASP.NET Core, Node.js
+- **Frontend**: React, HTML/CSS, JavaScript
+- **Databases**: SQL, MySQL, PostgreSQL
+- **Version Control**: Git, GitHub
+- **DevOps**: Docker, CI/CD pipelines, Cloud Deployment (Azure)
+- **Testing**: Unit Testing, Integration Testing
+- **Project Management**: Agile, Scrum, Kanban
+
+---
+
+## 🌱 **Currently Learning**
+
+- Advanced DevOps with **Kubernetes**  
+- Cloud Development with **AWS**  
+- Machine Learning fundamentals with **Python**  
+
+---
+
+## 🤝 **Let’s Collaborate!**
+
+I’m always open to collaborating on open-source projects, freelance opportunities, or full-time roles. Feel free to connect with me here or on [LinkedIn](https://www.linkedin.com/in/gregor-ruta/)!
+
+---
+
+## 📫 **Contact Me**
+
+- Email: grruta@kth.se  
+- LinkedIn: [linkedin.com/in/gregor-ruta](https://www.linkedin.com/in/gregor-ruta/)

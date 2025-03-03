@@ -48,5 +48,5 @@ I’m always open to collaborating on open-source projects, freelance opportunit
 
 ## 📫 **Contact Me**
 
-- Email: grruta@kth.se  
+- Email: ruta.grzegorz@gmail.com
 - LinkedIn: [linkedin.com/in/gregor-ruta](https://www.linkedin.com/in/gregor-ruta/)

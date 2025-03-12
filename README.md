@@ -1,52 +1,56 @@
-# Gregor Ruta - Software Developer
+# **Gregor Ruta – Full-Stack .NET Developer | AI & Automation Enthusiast**  
 
-### Welcome to my GitHub!
+### **Welcome!**  
 
-I'm Gregor Ruta, a software developer with a diverse background in architecture and project management. Currently transitioning to full-stack software development, I'm passionate about solving real-world problems with technology. On this profile, you'll find my projects built with C#, Python, and web technologies, along with various experiments in full-stack development, cloud services, and automation.
+I am a **Full-Stack .NET Developer** with a background in **software engineering, data science, and automation**. My expertise lies in building **scalable applications** with **C# and .NET**, integrating **AI, cloud computing, and data engineering** to solve complex problems efficiently.  
 
----
-
-## 👨‍💻 **About Me**
-
-- **Current Focus**: Full-Stack Development (C#, .NET, Python)
-- **Programming Languages**: C#, Python, JavaScript, HTML, CSS
-- **Frameworks**: ASP.NET Core, React, Node.js
-- **Cloud Services**: Azure (with a focus on DevOps & deployments)
-- **DevOps Tools**: Docker, CI/CD pipelines
-- **Project Management**: Agile methodologies, Scrum, Kanban
-- **Languages**: Fluent in Swedish, English, and Polish
-
-After spending several years as a Senior Architect, leading infrastructure and high-security projects, I shifted my career to software development, where I’m applying my project leadership skills to develop efficient and innovative solutions.
+With experience in **computer vision, machine learning, and automation**, I thrive at the intersection of **software development and AI-driven innovation**.  
 
 ---
 
-## 🛠 **Technologies & Tools**
+## 🔹 **Technical Skills**  
 
-- **Backend**: ASP.NET Core, Node.js
-- **Frontend**: React, HTML/CSS, JavaScript
-- **Databases**: SQL, MySQL, PostgreSQL
-- **Version Control**: Git, GitHub
-- **DevOps**: Docker, CI/CD pipelines, Cloud Deployment (Azure)
-- **Testing**: Unit Testing, Integration Testing
-- **Project Management**: Agile, Scrum, Kanban
+### **Core Development**  
+- **Languages**: C#, Python, TypeScript, JavaScript, C++  
+- **Backend**: ASP.NET Core, Entity Framework, REST API, SQL Server, PostgreSQL  
+- **Frontend**: Blazor, React, HTML/CSS, Razor Pages  
 
----
+### **Data Science & AI**  
+- **Machine Learning**: TensorFlow, Scikit-Learn, OpenCV  
+- **Computer Vision**: Image processing, object detection, feature extraction  
+- **Data Engineering**: Pandas, NumPy, SQL, ETL pipelines  
+- **Automation**: Grasshopper, Dynamo, Python scripting for CAD/BIM  
 
-## 🌱 **Currently Learning**
+### **DevOps & Cloud**  
+- **Cloud Platforms**: Azure (App Services, Functions, Storage), AWS (EC2, S3)  
+- **CI/CD**: GitHub Actions, Docker, Kubernetes  
+- **Testing**: Unit Testing (xUnit, NUnit), Integration Testing  
 
-- Advanced DevOps with **Kubernetes**  
-- Cloud Development with **AWS**  
-- Machine Learning fundamentals with **Python**  
-
----
-
-## 🤝 **Let’s Collaborate!**
-
-I’m always open to collaborating on open-source projects, freelance opportunities, or full-time roles. Feel free to connect with me here or on [LinkedIn](https://www.linkedin.com/in/gregor-ruta/)!
+### **Software Engineering Principles**  
+- SOLID Principles | Clean Code | Design Patterns | Agile Development (Scrum, Kanban)  
 
 ---
 
-## 📫 **Contact Me**
+## 🚀 **What I’m Working On**  
+- **Cloud-Native .NET Applications** with Azure & Kubernetes  
+- **Machine Learning & AI Integration** in software projects  
+- **Automation & Computational Design** for AEC (Architecture, Engineering & Construction)  
+- **Data Pipelines** for large-scale analytics  
 
-- Email: ruta.grzegorz@gmail.com
-- LinkedIn: [linkedin.com/in/gregor-ruta](https://www.linkedin.com/in/gregor-ruta/)
+---
+
+## 📌 **Why Work With Me?**  
+🔹 **Full-Stack & AI Hybrid** – I combine traditional **.NET development** with **AI, automation, and data science** to build smart, scalable applications.  
+🔹 **Cloud-Ready** – I specialize in **Azure-powered solutions**, optimizing applications for cloud performance.  
+🔹 **Automation & Data Engineering** – I streamline workflows in AEC and data-driven industries using **Grasshopper, Dynamo, and Python-based automation**.  
+🔹 **Agile & DevOps-Oriented** – I thrive in **collaborative, fast-paced environments** with **CI/CD, Docker, and Kubernetes**.  
+
+---
+
+## 🤝 **Let’s Connect!**  
+
+I’m open to **collaborations, open-source projects, and exciting job opportunities**. Let’s discuss how I can contribute to your next project!  
+
+- **Email**: ruta.grzegorz@gmail.com  
+- **GitHub**: [github.com/GreRut](https://github.com/GreRut)  
+- **LinkedIn**: [linkedin.com/in/gregor-ruta](https://www.linkedin.com/in/gregor-ruta/)  
